@@ -1,0 +1,5 @@
+# Large data files — keep repo lightweight for GitHub
+data/*.parquet
+outputs/flights_for_dashboard.csv
+__pycache__/
+*.pyc
