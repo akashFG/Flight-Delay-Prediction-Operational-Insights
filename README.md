@@ -6,6 +6,7 @@ This project asks two questions:
 
 Where does the delay risk concentrate (route, carrier, day, time, season)?
 Can we predict, using only information known before departure, whether a flight will arrive 15+ minutes late?
+
 2. Key Findings
 Metric	Value
 Overall on-time performance (arrival <15 min late)	75.9%
