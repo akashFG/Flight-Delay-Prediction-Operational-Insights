@@ -85,4 +85,7 @@ python 02_modeling.py   # trains models, generates evaluation charts
 ```
 
 ---
+<img width="878" height="489" alt="Flight Delay Powerbi" src="https://github.com/user-attachments/assets/614f741a-600e-448b-8252-0c8beacea26b" />
+
 *Author: Akash Mojumder — Data Scientist / Data Analyst*
+
